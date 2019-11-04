@@ -1,0 +1,11 @@
+{
+  "name": "gallery2",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/fatmaalsmadi/gallery2.git",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.4"
+  }
+}
